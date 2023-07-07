@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Simon Kachepa
+#### #Full-Stack Developer #Full-Stack Engineer
+![#Full-Stack Developer #Full-Stack Engineer](https://photos.google.com/search/_tra_/photo/AF1QipMPQd_NrnjnztyyNQY2lvOs2nJPs6tFjCSiovMT)
 
-<!--
-**simon-kachepa/simon-kachepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Simon Kachepa, I really enjoy coding and I enjoy learning languages and frameworks
 
-Here are some ideas to get you started:
+Skills: REACT / HTML / CSS/JS /PYTHON/C/C++/JAVA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning Software engineeering at ALX 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/simon-kachepa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/simon-kachepa//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/simon.kachepa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/simonkachepa)  
+
+
