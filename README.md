@@ -1,6 +1,6 @@
 ### Hi there 👋, Simon Kachepa
 #### #Full-Stack Developer #Full-Stack Engineer
-![#Full-Stack Developer #Full-Stack Engineer](https://photos.google.com/search/_tra_/photo/AF1QipMPQd_NrnjnztyyNQY2lvOs2nJPs6tFjCSiovMT)
+![#Full-Stack Developer #Full-Stack Engineer]
 
 I'm Simon Kachepa, I really enjoy coding and I enjoy learning languages and frameworks
 
