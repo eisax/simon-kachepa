@@ -4,7 +4,7 @@
 
 I'm Simon Kachepa, I really enjoy coding and I enjoy learning languages and frameworks
 
-Skills: REACT / HTML / CSS/JS /PYTHON/C/C++/JAVA
+Skills: REACT / HTML / CSS/JS / C/ C++
 
 
 - 🌱 I’m currently learning Software engineeering at ALX 
