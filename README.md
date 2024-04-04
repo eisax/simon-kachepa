@@ -2,11 +2,11 @@
 
  
 
-I'm a passionate full stack developer, with expertise in object-oriented programming. I love building robust and scalable web applications from the ground up. I have experience working with various technologies and frameworks, both on the frontend and backend.
+🌟 I'm a passionate full stack developer, with expertise in object-oriented programming. I love building robust and scalable web applications from the ground up. I have experience working with various technologies and frameworks, both on the frontend and backend.
 
 ❄️  I have a solid understanding of object-oriented programming    principles, which allows me to write clean, modular, and maintainable code. I believe in following best practices, writing tests, and continuously improving my skills to deliver high-quality software solutions.
 
-🌟  Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out to me. I'm always open to new opportunities and eager to contribute to the world of software development.
+
 
 :mailbox: Reach me out!
 
